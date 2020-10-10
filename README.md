@@ -1,0 +1,2 @@
+# Real_Estate_Simple_Linear_Regression_Python
+Simple linear regression statsmodels
